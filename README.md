@@ -28,21 +28,6 @@
 | **Real-Time Processing** | Lightning-fast calculations | 🚀 |
 | **Data Visualization** | Beautiful charts and insights | 📊 |
 
----
-
-## 📸 Screenshots
-
-> 🖼️ **Coming Soon!** Screenshots of the application interface will be added here.
-
-```
-📱 Mobile View     💻 Desktop View     📊 Results Dashboard
-   [Image]            [Image]             [Image]
-```
-
-*Add your screenshots here by replacing the placeholder text above with:*
-```markdown
-![App Screenshot](./screenshots/app-demo.png)
-```
 
 ---
 
@@ -116,11 +101,6 @@ Contributions are welcome! Feel free to:
 - **Responsive Design Principles** for universal accessibility
 - **GitHub Pages** for seamless deployment
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
